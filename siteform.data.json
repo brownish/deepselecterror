@@ -1,0 +1,2139 @@
+{
+  "data": [
+  {
+    "_id": "55ca5fcbcf032e6042564ed4",
+    "type": "periods",
+    "name": "P",
+    "short_description": "Precontact",
+    "long_description": "Precontact (10,000 B.C. - A.D. 1680)"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ed6",
+    "type": "physiographic_settings",
+    "name": "Alluvial",
+    "short_description": "Alluvial Fan",
+    "long_description": "Alluvial Fan"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ed7",
+    "type": "physiographic_settings",
+    "name": "Bluff",
+    "short_description": "Bluff Edge",
+    "long_description": "Bluff Edge"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ed8",
+    "type": "physiographic_settings",
+    "name": "BluffB",
+    "short_description": "Bluff Base",
+    "long_description": "Bluff Base"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ed9",
+    "type": "physiographic_settings",
+    "name": "Cave",
+    "short_description": "Cave/Rockshelter",
+    "long_description": "Cave/Rockshelter"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564edb",
+    "type": "physiographic_settings",
+    "name": "Flood",
+    "short_description": "Floodplain",
+    "long_description": "Floodplain"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564edc",
+    "type": "physiographic_settings",
+    "name": "Glacial",
+    "short_description": "Glacial Beach Ridge",
+    "long_description": "Glacial Beach Ridge"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564edd",
+    "type": "physiographic_settings",
+    "name": "Hill",
+    "short_description": "Hilltop",
+    "long_description": "Hilltop"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ede",
+    "type": "physiographic_settings",
+    "name": "In/Out",
+    "short_description": "Inlet/Outlet",
+    "long_description": "Inlet/Outlet"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ee0",
+    "type": "physiographic_settings",
+    "name": "Isthmus",
+    "short_description": "Isthmus",
+    "long_description": "Isthmus"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ee1",
+    "type": "physiographic_settings",
+    "name": "Junction",
+    "short_description": "Confluence of Streams/Rivers",
+    "long_description": "Confluence of Streams/Rivers"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ee2",
+    "type": "physiographic_settings",
+    "name": "Lacustrine",
+    "short_description": "General Lake Area",
+    "long_description": "General Lake Area"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ee3",
+    "type": "physiographic_settings",
+    "name": "Lakeshore",
+    "short_description": "Lakeshore",
+    "long_description": "Lakeshore"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ee5",
+    "type": "physiographic_settings",
+    "name": "Pen",
+    "short_description": "Peninsula",
+    "long_description": "Peninsula"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ee6",
+    "type": "physiographic_settings",
+    "name": "River",
+    "short_description": "General Riverine",
+    "long_description": "General Riverine"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ee7",
+    "type": "physiographic_settings",
+    "name": "Stream",
+    "short_description": "Intermittent Stream",
+    "long_description": "Intermittent Stream"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ee8",
+    "type": "physiographic_settings",
+    "name": "Terrace",
+    "short_description": "Terrace",
+    "long_description": "Terrace"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564eea",
+    "type": "streg",
+    "name": "No",
+    "short_description": "Not Listed",
+    "long_description": "The site is not listed on the State Register of Historic Places."
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564eeb",
+    "type": "streg",
+    "name": "Yes",
+    "short_description": "Listed",
+    "long_description": "The site is listed on the State Register of Historic Places."
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564eec",
+    "type": "traditions",
+    "name": "A",
+    "short_description": "Archaic",
+    "long_description": "Archaic"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564eed",
+    "type": "traditions",
+    "name": "M",
+    "short_description": "Mississippian",
+    "long_description": "Mississippian"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564eef",
+    "type": "traditions",
+    "name": "PL",
+    "short_description": "Paleoindian",
+    "long_description": "Paleoindian"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ef0",
+    "type": "traditions",
+    "name": "PV",
+    "short_description": "Plains Village",
+    "long_description": "Plains Village"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ef1",
+    "type": "traditions",
+    "name": "W",
+    "short_description": "Woodland",
+    "long_description": "Woodland"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ef2",
+    "type": "work_types",
+    "name": "0",
+    "short_description": "Pre-field prep. Lit. review, etc.",
+    "long_description": "Pre-field preparation, literature search, historic documentation"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ef4",
+    "type": "work_types",
+    "name": "2",
+    "short_description": "Phase II",
+    "long_description": "Phase II (evaluation/formal testing)"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ef5",
+    "type": "work_types",
+    "name": "3",
+    "short_description": "Phase III",
+    "long_description": "Phase III (mitigation/data recovery/major excavation; monitoring if part of DRP)"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ef7",
+    "type": "work_types",
+    "name": "5",
+    "short_description": "Non-field studies",
+    "long_description": "Collections & other non-field studies (e.g., a study of projectile points)"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564efa",
+    "type": "work_types",
+    "name": "8",
+    "short_description": "Phase I and II",
+    "long_description": "Combined Phase I & II"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564efb",
+    "type": "work_types",
+    "name": "9",
+    "short_description": "Phase II and III",
+    "long_description": "Combined Phase II & III"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564efc",
+    "type": "xnr",
+    "name": "In",
+    "short_description": "Within a NatReg District",
+    "long_description": "Site is within a listed National Register District"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564efe",
+    "type": "SHPORegion",
+    "name": "1",
+    "short_description": "Southwest Riverine",
+    "long_description": "Southwest Riverine"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564eff",
+    "type": "SHPORegion",
+    "name": "2n",
+    "short_description": "Prairie Lake North",
+    "long_description": "Prairie Lake North"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564f00",
+    "type": "SHPORegion",
+    "name": "2s",
+    "short_description": "Prairie Lake South",
+    "long_description": "Prairie Lake South"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564f01",
+    "type": "SHPORegion",
+    "name": "2e",
+    "short_description": "Prairie Lake East",
+    "long_description": "Prairie Lake East"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564f03",
+    "type": "SHPORegion",
+    "name": "3w",
+    "short_description": "Southeast Riverine West",
+    "long_description": "Southeast Riverine West"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564f04",
+    "type": "SHPORegion",
+    "name": "4w",
+    "short_description": "Central Lakes Deciduous West",
+    "long_description": "Central Lakes Deciduous West"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564f05",
+    "type": "SHPORegion",
+    "name": "4e",
+    "short_description": "Central Lakes Deciduous East",
+    "long_description": "Central Lakes Deciduous East"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564f06",
+    "type": "SHPORegion",
+    "name": "4s",
+    "short_description": "Central Lakes Deciduous South",
+    "long_description": "Central Lakes Deciduous South"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564f08",
+    "type": "SHPORegion",
+    "name": "5e",
+    "short_description": "Central Lakes Coniferous East",
+    "long_description": "Central Lakes Coniferous East"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564f09",
+    "type": "SHPORegion",
+    "name": "5c",
+    "short_description": "Central Lakes Coniferous Central",
+    "long_description": "Central Lakes Coniferous Central"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564f0a",
+    "type": "SHPORegion",
+    "name": "5n",
+    "short_description": "Central Lakes Coniferous North",
+    "long_description": "Central Lakes Coniferous North"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564f0b",
+    "type": "SHPORegion",
+    "name": "5s",
+    "short_description": "Central Lakes Coniferous South",
+    "long_description": "Central Lakes Coniferous South"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564f0d",
+    "type": "SHPORegion",
+    "name": "6s",
+    "short_description": "Red River Valley South",
+    "long_description": "Red River Valley South"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564f0f",
+    "type": "SHPORegion",
+    "name": "7e",
+    "short_description": "North Bog East",
+    "long_description": "North Bog East"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564f0e",
+    "type": "SHPORegion",
+    "name": "7w",
+    "short_description": "Northern Bog West",
+    "long_description": "Northern Bog West"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564f10",
+    "type": "SHPORegion",
+    "name": "8",
+    "short_description": "Border Lakes",
+    "long_description": "Border Lakes"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564f12",
+    "type": "SHPORegion",
+    "name": "9s",
+    "short_description": "Lake Superior South",
+    "long_description": "Lake Superior South"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564de5",
+    "type": "biological_artifacts",
+    "name": "shell",
+    "short_description": "Shell",
+    "long_description": "Shell"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564dea",
+    "type": "cef",
+    "name": "PE",
+    "short_description": "Partially Eligible",
+    "long_description": "A portion of the site has been evaluated Partially Eligible for listing on the NRHP by the SHPO."
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564def",
+    "type": "ceramic_artifacts",
+    "name": "BE",
+    "short_description": "Blue Earth",
+    "long_description": "Blue Earth"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564df4",
+    "type": "ceramic_artifacts",
+    "name": "FL",
+    "short_description": "Fox Lake",
+    "long_description": "Fox Lake"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564df9",
+    "type": "ceramic_artifacts",
+    "name": "LB",
+    "short_description": "Lake Benton",
+    "long_description": "Lake Benton"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564dfe",
+    "type": "ceramic_artifacts",
+    "name": "On",
+    "short_description": "Onamia",
+    "long_description": "Onamia"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e03",
+    "type": "ceramic_artifacts",
+    "name": "SL",
+    "short_description": "Sandy Lake",
+    "long_description": "Sandy Lake"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e08",
+    "type": "contexts",
+    "name": "AS",
+    "short_description": "Shield Archaic",
+    "long_description": "Shield Archaic"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e0d",
+    "type": "contexts",
+    "name": "Ca",
+    "short_description": "Cambria",
+    "long_description": "Cambria"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e12",
+    "type": "contexts",
+    "name": "EF",
+    "short_description": "Eastern Fluted",
+    "long_description": "Eastern Fluted"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e17",
+    "type": "contexts",
+    "name": "Fr",
+    "short_description": "French",
+    "long_description": "French"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e1c",
+    "type": "contexts",
+    "name": "Ka",
+    "short_description": "Kathio",
+    "long_description": "Kathio"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e21",
+    "type": "contexts",
+    "name": "NL",
+    "short_description": "Northern Minnesota Lumbering",
+    "long_description": "Northern Minnesota Lumbering"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e26",
+    "type": "contexts",
+    "name": "Ps",
+    "short_description": "Psinomani",
+    "long_description": "Psinomani"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e2b",
+    "type": "contexts",
+    "name": "SO",
+    "short_description": "Transitional Woodland (St. Croix, Onamia)",
+    "long_description": "Transitional Woodland (St. Croix, Onamia)"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e30",
+    "type": "data_region",
+    "name": "1",
+    "short_description": "Data Region 1",
+    "long_description": "Data Region 1"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e35",
+    "type": "data_region",
+    "name": "6",
+    "short_description": "Data Region 6",
+    "long_description": "Data Region 6"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e3a",
+    "type": "data_region",
+    "name": "11",
+    "short_description": "Data Region 11",
+    "long_description": "Data Region 11"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e3f",
+    "type": "dating_methods",
+    "name": "rc",
+    "short_description": "RadioCarbon Dating",
+    "long_description": "RadioCarbon Dating"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e44",
+    "type": "descriptions",
+    "name": "CEM",
+    "short_description": "Cemetery, Burial",
+    "long_description": "Cemetery, Burial (non-mounds)"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e49",
+    "type": "descriptions",
+    "name": "NS",
+    "short_description": "Not a site",
+    "long_description": "Entered as 'Non-Site'"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e4e",
+    "type": "descriptions",
+    "name": "SM",
+    "short_description": "Shell Midden",
+    "long_description": "Shell Midden"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e53",
+    "type": "digitized",
+    "name": "No",
+    "short_description": "The site has not been digitized.",
+    "long_description": "The site has not been digitized."
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e58",
+    "type": "disturbance",
+    "name": "2",
+    "short_description": "Minimally Disturbed",
+    "long_description": "The site has been minimally disturbed."
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e5d",
+    "type": "doe",
+    "name": "Yes",
+    "short_description": "Eligible",
+    "long_description": "The site has been determined to be eligible by the National Park Service/Secretary of the Interior for listing on the NRHP, but has not been actually listed."
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e62",
+    "type": "major_drainage",
+    "name": "MnR",
+    "short_description": "Minnesota River",
+    "long_description": "Minnesota River"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e67",
+    "type": "major_drainage",
+    "name": "UMR",
+    "short_description": "Upper Miss. River",
+    "long_description": "Upper Mississippi River"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e6c",
+    "type": "exotic_artifacts",
+    "name": "KRF",
+    "short_description": "Knife River Flint",
+    "long_description": "Knife River Flint"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e71",
+    "type": "functions",
+    "name": "Battle",
+    "short_description": "Battleground",
+    "long_description": "Battleground"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e76",
+    "type": "functions",
+    "name": "CCC",
+    "short_description": "CCC Camp",
+    "long_description": "CCC Camp"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e7b",
+    "type": "functions",
+    "name": "Fort",
+    "short_description": "Fort",
+    "long_description": "Fort"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e80",
+    "type": "functions",
+    "name": "Home",
+    "short_description": "Homestead",
+    "long_description": "Homestead"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e85",
+    "type": "functions",
+    "name": "Mine",
+    "short_description": "Mining",
+    "long_description": "Mining"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e8a",
+    "type": "functions",
+    "name": "Picto",
+    "short_description": "Pictoglyph",
+    "long_description": "Pictoglyph"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e8f",
+    "type": "functions",
+    "name": "Smill",
+    "short_description": "Saw Mill",
+    "long_description": "Saw Mill"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e94",
+    "type": "functions",
+    "name": "Wcraft",
+    "short_description": "Watercraft",
+    "long_description": "Watercraft"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e99",
+    "type": "lithic_artifacts",
+    "name": "bi",
+    "short_description": "Bifurcate",
+    "long_description": "Bifurcate"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e9e",
+    "type": "lithic_artifacts",
+    "name": "Dl",
+    "short_description": "Dalton",
+    "long_description": "Dalton"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ea3",
+    "type": "lithic_artifacts",
+    "name": "Fred",
+    "short_description": "Fredrick",
+    "long_description": "Fredrick"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ea8",
+    "type": "lithic_artifacts",
+    "name": "lithic",
+    "short_description": "Unspecified Lithic Material",
+    "long_description": "Unspecified Lithic Material"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ead",
+    "type": "lithic_artifacts",
+    "name": "Pl",
+    "short_description": "Plano",
+    "long_description": "Plano"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564eb2",
+    "type": "lithic_artifacts",
+    "name": "sn",
+    "short_description": "Side-Notched",
+    "long_description": "Side-Notched"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564eb7",
+    "type": "location_confidence",
+    "name": "1",
+    "short_description": "Very High",
+    "long_description": "Very High: the site can be accurately and precisely delineated on a 7.5 USGS quadrangle map and/or the site was examined and mapped by a professional archaeologist."
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ebc",
+    "type": "national_register",
+    "name": "No",
+    "short_description": "Not Listed",
+    "long_description": "Site is not listed on the National Register of Historic Places or within a listed historic district"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ec1",
+    "type": "other_artifacts",
+    "name": "cuorn",
+    "short_description": "Copper Ornament",
+    "long_description": "Copper Ornament"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ec6",
+    "type": "other_artifacts",
+    "name": "metal",
+    "short_description": "Metal",
+    "long_description": "Metal"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ecb",
+    "type": "other_artifacts",
+    "name": "shtool",
+    "short_description": "Shell Tool",
+    "long_description": "Shell Tool"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ed0",
+    "type": "owner_types",
+    "name": "St",
+    "short_description": "State of Minnesota",
+    "long_description": "State of Minnesota"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ed5",
+    "type": "periods",
+    "name": "R",
+    "short_description": "Post-Contact",
+    "long_description": "Post-Contact (Recent; A.D. 1837 - present)"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564eda",
+    "type": "physiographic_settings",
+    "name": "Cove/Bay",
+    "short_description": "Cove or Bay",
+    "long_description": "Cove or Bay"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564edf",
+    "type": "physiographic_settings",
+    "name": "Island",
+    "short_description": "Island",
+    "long_description": "Island"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ee4",
+    "type": "physiographic_settings",
+    "name": "Marsh",
+    "short_description": "Marsh, Swamp, Fen, Bog",
+    "long_description": "Marsh, Swamp, Fen, Bog"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ee9",
+    "type": "physiographic_settings",
+    "name": "Upland",
+    "short_description": "Undifferentiated Upland",
+    "long_description": "Undifferentiated Upland"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564eee",
+    "type": "traditions",
+    "name": "O",
+    "short_description": "Oneota",
+    "long_description": "Oneota"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ef3",
+    "type": "work_types",
+    "name": "1",
+    "short_description": "Phase I",
+    "long_description": "Phase I (reconnaissance survey)"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ef8",
+    "type": "work_types",
+    "name": "6",
+    "short_description": "Independent research design",
+    "long_description": "Research Design (independent document)"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564efd",
+    "type": "xnr",
+    "name": "On",
+    "short_description": "Individually Listed",
+    "long_description": "Site is individually listed on the National Register"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564f02",
+    "type": "SHPORegion",
+    "name": "3e",
+    "short_description": "Southeast Riverine East",
+    "long_description": "Southeast Riverine East"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564f07",
+    "type": "SHPORegion",
+    "name": "5w",
+    "short_description": "Central Lakes Coniferous West",
+    "long_description": "Central Lakes Coniferous West"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564f0c",
+    "type": "SHPORegion",
+    "name": "6n",
+    "short_description": "Red River Valley North",
+    "long_description": "Red River Valley North"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564f11",
+    "type": "SHPORegion",
+    "name": "9n",
+    "short_description": "Lake Superior North",
+    "long_description": "Lake Superior North"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564de2",
+    "type": "biological_artifacts",
+    "name": "an",
+    "short_description": "Animal Remains",
+    "long_description": "Animal Remains"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564de3",
+    "type": "biological_artifacts",
+    "name": "floral",
+    "short_description": "Seeds, Plant Remains, Charcoal, etc.",
+    "long_description": "Seeds, Plant Remains, Charcoal, etc."
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564de4",
+    "type": "biological_artifacts",
+    "name": "human",
+    "short_description": "Human Remains",
+    "long_description": "Human Remains"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564de6",
+    "type": "biological_artifacts",
+    "name": "unid",
+    "short_description": "Unidentified Bone",
+    "long_description": "Unidentified Bone"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564de7",
+    "type": "burial_authenticated",
+    "name": "Yes",
+    "short_description": "Yes",
+    "long_description": "The burial has been authenticated by the State Archeologist."
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564de8",
+    "type": "burial_authenticated",
+    "name": "No",
+    "short_description": "No",
+    "long_description": "The burial has not been authenticated by the State Archeologist."
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564de9",
+    "type": "cef",
+    "name": "No",
+    "short_description": "Not Eligible",
+    "long_description": "Site has been determined Not Eligible for listing on the NRHP by the SHPO."
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564deb",
+    "type": "cef",
+    "name": "PNE",
+    "short_description": "Partially Not Eligible",
+    "long_description": "A portion of the site has been evaluated Partially Not Eligible for listing on the NRHP by the SHPO."
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564dec",
+    "type": "cef",
+    "name": "Yes",
+    "short_description": "Eligible",
+    "long_description": "Site has been considered to be Eligible for listing on the NRHP by the SHPO and a federal agency has formally agreed during the Section 106 process."
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ded",
+    "type": "ceramic_artifacts",
+    "name": "Ab",
+    "short_description": "Aboriginal",
+    "long_description": "Aboriginal"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564dee",
+    "type": "ceramic_artifacts",
+    "name": "Bd",
+    "short_description": "Blackduck",
+    "long_description": "Blackduck"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564df0",
+    "type": "ceramic_artifacts",
+    "name": "Br",
+    "short_description": "Brainerd",
+    "long_description": "Brainerd"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564df1",
+    "type": "ceramic_artifacts",
+    "name": "Cache",
+    "short_description": "Cambria",
+    "long_description": "Cambria"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564df2",
+    "type": "ceramic_artifacts",
+    "name": "CR",
+    "short_description": "Clam River",
+    "long_description": "Clam River"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564df3",
+    "type": "ceramic_artifacts",
+    "name": "EA",
+    "short_description": "Euro-American",
+    "long_description": "Euro-American"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564df5",
+    "type": "ceramic_artifacts",
+    "name": "GHL",
+    "short_description": "Howard Lake",
+    "long_description": "Howard Lake"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564df6",
+    "type": "ceramic_artifacts",
+    "name": "GO",
+    "short_description": "Great Oasis",
+    "long_description": "Great Oasis"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564df7",
+    "type": "ceramic_artifacts",
+    "name": "Ka",
+    "short_description": "Kathio",
+    "long_description": "Kathio"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564df8",
+    "type": "ceramic_artifacts",
+    "name": "La",
+    "short_description": "Laurel",
+    "long_description": "Laurel"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564dfa",
+    "type": "ceramic_artifacts",
+    "name": "Lm",
+    "short_description": "La Moille Thick",
+    "long_description": "La Moille Thick"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564dfb",
+    "type": "ceramic_artifacts",
+    "name": "Ma",
+    "short_description": "Malmo",
+    "long_description": "Malmo"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564dfc",
+    "type": "ceramic_artifacts",
+    "name": "Oa",
+    "short_description": "Oneota",
+    "long_description": "Oneota"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564dfd",
+    "type": "ceramic_artifacts",
+    "name": "Og",
+    "short_description": "Ogechie",
+    "long_description": "Ogechie"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564dff",
+    "type": "ceramic_artifacts",
+    "name": "Or",
+    "short_description": "Orr",
+    "long_description": "Orr"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e00",
+    "type": "ceramic_artifacts",
+    "name": "SC",
+    "short_description": "St. Croix",
+    "long_description": "St. Croix"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e01",
+    "type": "ceramic_artifacts",
+    "name": "Sg",
+    "short_description": "Sorg",
+    "long_description": "Sorg"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e02",
+    "type": "ceramic_artifacts",
+    "name": "Sk",
+    "short_description": "Selkirk",
+    "long_description": "Selkirk"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e04",
+    "type": "ceramic_artifacts",
+    "name": "Sn",
+    "short_description": "Silvernale",
+    "long_description": "Silvernale"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e06",
+    "type": "contexts",
+    "name": "AP",
+    "short_description": "Prairie Archaic",
+    "long_description": "Prairie Archaic"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e07",
+    "type": "contexts",
+    "name": "AR",
+    "short_description": "Riverine Archaic",
+    "long_description": "Riverine Archaic"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e09",
+    "type": "contexts",
+    "name": "Bd",
+    "short_description": "Blackduck",
+    "long_description": "Blackduck"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e05",
+    "type": "contexts",
+    "name": "AL",
+    "short_description": "Lake Forest Archaic",
+    "long_description": "Lake Forest Archaic"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e0a",
+    "type": "contexts",
+    "name": "BE",
+    "short_description": "Blue Earth",
+    "long_description": "Blue Earth"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e0b",
+    "type": "contexts",
+    "name": "Br",
+    "short_description": "Brainard",
+    "long_description": "Brainard"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e0c",
+    "type": "contexts",
+    "name": "BS",
+    "short_description": "Big Stone",
+    "long_description": "Big Stone"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e0e",
+    "type": "contexts",
+    "name": "Cl",
+    "short_description": "Clovis",
+    "long_description": "Clovis"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e0f",
+    "type": "contexts",
+    "name": "CS",
+    "short_description": "Chiwere Siouan",
+    "long_description": "Chiwere Siouan"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e10",
+    "type": "contexts",
+    "name": "EA",
+    "short_description": "Early Agriculture and River Settlement",
+    "long_description": "Early Agriculture and River Settlement"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e11",
+    "type": "contexts",
+    "name": "ED",
+    "short_description": "Eastern Dakota",
+    "long_description": "Eastern Dakota"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e13",
+    "type": "contexts",
+    "name": "En",
+    "short_description": "English",
+    "long_description": "English"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e14",
+    "type": "contexts",
+    "name": "EW",
+    "short_description": "Early Woodland",
+    "long_description": "Early Woodland"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e15",
+    "type": "contexts",
+    "name": "FL",
+    "short_description": "Fox Lake",
+    "long_description": "Fox Lake"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e19",
+    "type": "contexts",
+    "name": "HR",
+    "short_description": "Havanna Related (Malmo, Howard Lake, Sorg)",
+    "long_description": "Havanna Related (Malmo, Howard Lake, Sorg)"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e16",
+    "type": "contexts",
+    "name": "Fo",
+    "short_description": "Folsom",
+    "long_description": "Folsom"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e1a",
+    "type": "contexts",
+    "name": "IC",
+    "short_description": "Indian Communities and Reservations",
+    "long_description": "Indian Communities and Reservations"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e18",
+    "type": "contexts",
+    "name": "GO",
+    "short_description": "Great Oasis",
+    "long_description": "Great Oasis"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e1e",
+    "type": "contexts",
+    "name": "LB",
+    "short_description": "Lake Benton",
+    "long_description": "Lake Benton"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e1b",
+    "type": "contexts",
+    "name": "IR",
+    "short_description": "Iron Range and North Shore Settlement",
+    "long_description": "Iron Range and North Shore Settlement"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e1f",
+    "type": "contexts",
+    "name": "LW",
+    "short_description": "Unspecified Late Woodland",
+    "long_description": "Unspecified Late Woodland"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e1d",
+    "type": "contexts",
+    "name": "La",
+    "short_description": "Laurel",
+    "long_description": "Laurel"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e23",
+    "type": "contexts",
+    "name": "Oj",
+    "short_description": "Ojibwe",
+    "long_description": "Ojibwe"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e20",
+    "type": "contexts",
+    "name": "MW",
+    "short_description": "Middle Woodland",
+    "long_description": "Middle Woodland"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e24",
+    "type": "contexts",
+    "name": "Or",
+    "short_description": "Orr",
+    "long_description": "Orr"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e22",
+    "type": "contexts",
+    "name": "Oa",
+    "short_description": "Oneota",
+    "long_description": "Oneota"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e28",
+    "type": "contexts",
+    "name": "SC",
+    "short_description": "St. Croix Triangle Lumbering",
+    "long_description": "St. Croix Triangle Lumbering"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e25",
+    "type": "contexts",
+    "name": "Pl",
+    "short_description": "Lanceolate Point/Plano",
+    "long_description": "Lanceolate Point/Plano"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e29",
+    "type": "contexts",
+    "name": "SELW",
+    "short_description": "Southeastern Minnesota Late Woodland",
+    "long_description": "Southeastern Minnesota Late Woodland"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e27",
+    "type": "contexts",
+    "name": "RA",
+    "short_description": "Railroad and Agricultural Development",
+    "long_description": "Railroad and Agricultural Development"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e2d",
+    "type": "contexts",
+    "name": "Ur",
+    "short_description": "Urban",
+    "long_description": "Urban"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e2a",
+    "type": "contexts",
+    "name": "Sn",
+    "short_description": "Silvernale",
+    "long_description": "Silvernale"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e2e",
+    "type": "contexts",
+    "name": "US",
+    "short_description": "Initial U.S.",
+    "long_description": "Initial U.S."
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e2c",
+    "type": "contexts",
+    "name": "TR",
+    "short_description": "Tourism and Recreation",
+    "long_description": "Tourism and Recreation"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e2f",
+    "type": "contexts",
+    "name": "WD",
+    "short_description": "Western Dakota",
+    "long_description": "Western Dakota"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e31",
+    "type": "data_region",
+    "name": "2",
+    "short_description": "Data Region 2",
+    "long_description": "Data Region 2"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e32",
+    "type": "data_region",
+    "name": "3",
+    "short_description": "Data Region 3",
+    "long_description": "Data Region 3"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e33",
+    "type": "data_region",
+    "name": "4",
+    "short_description": "Data Region 4",
+    "long_description": "Data Region 4"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e34",
+    "type": "data_region",
+    "name": "5",
+    "short_description": "Data Region 5",
+    "long_description": "Data Region 5"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e36",
+    "type": "data_region",
+    "name": "7",
+    "short_description": "Data Region 7",
+    "long_description": "Data Region 7"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e37",
+    "type": "data_region",
+    "name": "8",
+    "short_description": "Data Region 8",
+    "long_description": "Data Region 8"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e38",
+    "type": "data_region",
+    "name": "9",
+    "short_description": "Data Region 9",
+    "long_description": "Data Region 9"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e39",
+    "type": "data_region",
+    "name": "10",
+    "short_description": "Data Region 10",
+    "long_description": "Data Region 10"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e3b",
+    "type": "data_region",
+    "name": "12",
+    "short_description": "Data Region 12",
+    "long_description": "Data Region 12"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e3c",
+    "type": "dating_methods",
+    "name": "hist",
+    "short_description": "Historic Documentation",
+    "long_description": "Historic Documentation (e.g. plat map)"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e3d",
+    "type": "dating_methods",
+    "name": "ob",
+    "short_description": "Obsidian Hydration",
+    "long_description": "Obsidian Hydration"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e3e",
+    "type": "dating_methods",
+    "name": "oth",
+    "short_description": "Other",
+    "long_description": "Other"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e40",
+    "type": "dating_methods",
+    "name": "strat",
+    "short_description": "Site Stratigraphy/Geomorphology",
+    "long_description": "Site Stratigraphy/Geomorphology"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e41",
+    "type": "dating_methods",
+    "name": "style",
+    "short_description": "Artifact Style/Cross-Dating",
+    "long_description": "Artifact Style/Cross-Dating"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e42",
+    "type": "dating_methods",
+    "name": "tl",
+    "short_description": "Thermoluminesence",
+    "long_description": "Thermoluminesence"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e43",
+    "type": "descriptions",
+    "name": "AS",
+    "short_description": "Artifact Scatter",
+    "long_description": "Artifact Scatter (any multiple artifact site with more than just lithics)"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e45",
+    "type": "descriptions",
+    "name": "EW",
+    "short_description": "Earthwork",
+    "long_description": "Earthwork (includes mounds, fortifications, ricing pits, etc.)"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e46",
+    "type": "descriptions",
+    "name": "FEAT",
+    "short_description": "Feature",
+    "long_description": "Feature (e.g. pit, depression)"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e47",
+    "type": "descriptions",
+    "name": "HD",
+    "short_description": "Historically Documented",
+    "long_description": "Historiically Documented (e.g. ghost towns, trading posts, etc., in records but no field survey)"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e48",
+    "type": "descriptions",
+    "name": "LS",
+    "short_description": "Lithic Scatter",
+    "long_description": "Lithic Scatter (a site with only lithic materials; i.e., tools, flakes, fire-cracked rock, etc.)"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e4a",
+    "type": "descriptions",
+    "name": "RALN",
+    "short_description": "Rock Alignment",
+    "long_description": "Rock Alignment"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e4b",
+    "type": "descriptions",
+    "name": "RART",
+    "short_description": "Rock Art",
+    "long_description": "Rock Art (includes pictographs, petroglyphs, boulder outlines)"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e4c",
+    "type": "descriptions",
+    "name": "SA",
+    "short_description": "Single Artifact",
+    "long_description": "Single Artifact (find spot)"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e4d",
+    "type": "descriptions",
+    "name": "SHIP",
+    "short_description": "Shipwreck",
+    "long_description": "Shipwreck"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e4f",
+    "type": "descriptions",
+    "name": "SR",
+    "short_description": "Structural Ruin",
+    "long_description": "Structural Ruin"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e50",
+    "type": "descriptions",
+    "name": "STR",
+    "short_description": "Standing Structure/Building",
+    "long_description": "Standing Structure/Building"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e51",
+    "type": "descriptions",
+    "name": "TR",
+    "short_description": "Trail/Road",
+    "long_description": "Trail/Road"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e52",
+    "type": "digitized",
+    "name": "Line",
+    "short_description": "Line",
+    "long_description": "Line"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e54",
+    "type": "digitized",
+    "name": "Poly",
+    "short_description": "Polygon",
+    "long_description": "Polygon"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e55",
+    "type": "digitized",
+    "name": "Pt",
+    "short_description": "Point",
+    "long_description": "Point"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e56",
+    "type": "disturbance",
+    "name": "",
+    "short_description": "Unknown",
+    "long_description": "Unknown level of disturbance."
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e57",
+    "type": "disturbance",
+    "name": "1",
+    "short_description": "Virtually Undisturbed",
+    "long_description": "The site is virtually undisturbed."
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e59",
+    "type": "disturbance",
+    "name": "3",
+    "short_description": "Moderately Disturbed",
+    "long_description": "The site is moderately disturbed. Includes plow zones."
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e5a",
+    "type": "disturbance",
+    "name": "4",
+    "short_description": "Heavily Disturbed",
+    "long_description": "The site is heavily disturbed."
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e5b",
+    "type": "disturbance",
+    "name": "5",
+    "short_description": "Virtually Destroyed",
+    "long_description": "The site has been virtually destroyed."
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e5c",
+    "type": "doe",
+    "name": "No",
+    "short_description": "Not eligible",
+    "long_description": "The site has not been determined to be eligible by the National Park Service/Secretary of the Interior for listing on the NRHP."
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e5e",
+    "type": "major_drainage",
+    "name": "CR",
+    "short_description": "Cedar River",
+    "long_description": "Cedar River"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e5f",
+    "type": "major_drainage",
+    "name": "DMR",
+    "short_description": "Des Moines River",
+    "long_description": "Des Moines River"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e60",
+    "type": "major_drainage",
+    "name": "LMR",
+    "short_description": "Lower Miss. River",
+    "long_description": "Lower Mississippi River"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e61",
+    "type": "major_drainage",
+    "name": "LS",
+    "short_description": "Lake Superior",
+    "long_description": "Lake Superior"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e63",
+    "type": "major_drainage",
+    "name": "MR",
+    "short_description": "Missouri River",
+    "long_description": "Missouri River"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e64",
+    "type": "major_drainage",
+    "name": "Red",
+    "short_description": "Red River",
+    "long_description": "Red River"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e65",
+    "type": "major_drainage",
+    "name": "RR",
+    "short_description": "Rainy River",
+    "long_description": "Rainy River"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e66",
+    "type": "major_drainage",
+    "name": "SCR",
+    "short_description": "St. Croix River",
+    "long_description": "St. Croix River"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e68",
+    "type": "exotic_artifacts",
+    "name": "BurC",
+    "short_description": "Burlington Chert",
+    "long_description": "Burlington Chert"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e69",
+    "type": "exotic_artifacts",
+    "name": "Cat",
+    "short_description": "Catlinite",
+    "long_description": "Catlinite (pipestone)"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e6a",
+    "type": "exotic_artifacts",
+    "name": "Cp",
+    "short_description": "Copper",
+    "long_description": "Copper"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e6b",
+    "type": "exotic_artifacts",
+    "name": "Hxt",
+    "short_description": "Hixton Quartzite",
+    "long_description": "Hixton Quartzite"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e6d",
+    "type": "exotic_artifacts",
+    "name": "MSh",
+    "short_description": "Marine Shell",
+    "long_description": "Marine Shell"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e6e",
+    "type": "exotic_artifacts",
+    "name": "Ob",
+    "short_description": "Obsidian",
+    "long_description": "Obsidian"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e6f",
+    "type": "exotic_artifacts",
+    "name": "oth",
+    "short_description": "Other",
+    "long_description": "Other"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e70",
+    "type": "functions",
+    "name": "Agency",
+    "short_description": "Indian Agency",
+    "long_description": "Indian Agency"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e72",
+    "type": "functions",
+    "name": "Bmound",
+    "short_description": "Burial Mound",
+    "long_description": "Burial Mound"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e73",
+    "type": "functions",
+    "name": "Bone",
+    "short_description": "Bone Bed",
+    "long_description": "Bone Bed"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e74",
+    "type": "functions",
+    "name": "Butcher",
+    "short_description": "Buthering Site",
+    "long_description": "Buthering Site"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e75",
+    "type": "functions",
+    "name": "Cache",
+    "short_description": "Cache",
+    "long_description": "Cache"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e77",
+    "type": "functions",
+    "name": "Fac",
+    "short_description": "Factory",
+    "long_description": "Factory"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e78",
+    "type": "functions",
+    "name": "Farm",
+    "short_description": "Farmstead",
+    "long_description": "Farmstead"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e79",
+    "type": "functions",
+    "name": "Fish",
+    "short_description": "Fishing",
+    "long_description": "Fishing"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e7a",
+    "type": "functions",
+    "name": "Fmill",
+    "short_description": "Flour Mill",
+    "long_description": "Flour Mill"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e7c",
+    "type": "functions",
+    "name": "Garden",
+    "short_description": "Gardening",
+    "long_description": "Gardening"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e7d",
+    "type": "functions",
+    "name": "Gather",
+    "short_description": "Gathering",
+    "long_description": "Gathering"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e7e",
+    "type": "functions",
+    "name": "GT",
+    "short_description": "Ghost Town",
+    "long_description": "Ghost Town"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e7f",
+    "type": "functions",
+    "name": "Hab",
+    "short_description": "Habitation",
+    "long_description": "Habitation (aboriginal camp, village)"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e81",
+    "type": "functions",
+    "name": "House",
+    "short_description": "Single Domestic Dwelling",
+    "long_description": "Single Domestic Dwelling"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e82",
+    "type": "functions",
+    "name": "Kill",
+    "short_description": "Kill Site",
+    "long_description": "Large Mammal Kill Site"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e83",
+    "type": "functions",
+    "name": "LogCamp",
+    "short_description": "Logging Camp",
+    "long_description": "Logging Camp"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e84",
+    "type": "functions",
+    "name": "LogDam",
+    "short_description": "Logging Dam",
+    "long_description": "Logging Dam"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e86",
+    "type": "functions",
+    "name": "Miss",
+    "short_description": "Mission",
+    "long_description": "Mission"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e87",
+    "type": "functions",
+    "name": "Mort",
+    "short_description": "Mortuary",
+    "long_description": "Mortuary"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e88",
+    "type": "functions",
+    "name": "Oth",
+    "short_description": "Other",
+    "long_description": "Other"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e89",
+    "type": "functions",
+    "name": "Pglyph",
+    "short_description": "Petroglyph",
+    "long_description": "Petroglyph"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e8b",
+    "type": "functions",
+    "name": "Portage",
+    "short_description": "Portage Trail",
+    "long_description": "Portage Trail"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e8c",
+    "type": "functions",
+    "name": "Quarry",
+    "short_description": "Quarry",
+    "long_description": "Quarry"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e8d",
+    "type": "functions",
+    "name": "Resid",
+    "short_description": "Recent Residential Area",
+    "long_description": "Residential Area (recent)"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e8e",
+    "type": "functions",
+    "name": "Rice",
+    "short_description": "Ricing",
+    "long_description": "Ricing"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e90",
+    "type": "functions",
+    "name": "Stage",
+    "short_description": "Stage Stop",
+    "long_description": "Stage Stop"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e91",
+    "type": "functions",
+    "name": "Sugar",
+    "short_description": "Maple Sugaring",
+    "long_description": "Maple Sugaring"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e92",
+    "type": "functions",
+    "name": "Tpost",
+    "short_description": "Trading Post",
+    "long_description": "Trading Post"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e93",
+    "type": "functions",
+    "name": "Trans",
+    "short_description": "Transportation",
+    "long_description": "Transportation"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e95",
+    "type": "functions",
+    "name": "Wshop",
+    "short_description": "Lithic Workshop",
+    "long_description": "Lithic Workshop"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e96",
+    "type": "lithic_artifacts",
+    "name": "AB",
+    "short_description": "Agate Basin",
+    "long_description": "Agate Basin"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e97",
+    "type": "lithic_artifacts",
+    "name": "Al",
+    "short_description": "Alberta",
+    "long_description": "Alberta"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e98",
+    "type": "lithic_artifacts",
+    "name": "Ang",
+    "short_description": "Angostura",
+    "long_description": "Angostura"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e9a",
+    "type": "lithic_artifacts",
+    "name": "BV",
+    "short_description": "Browns Valley",
+    "long_description": "Browns Valley"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e9b",
+    "type": "lithic_artifacts",
+    "name": "Cl",
+    "short_description": "Clovis",
+    "long_description": "Clovis"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e9c",
+    "type": "lithic_artifacts",
+    "name": "cr",
+    "short_description": "Corner-Notched",
+    "long_description": "Corner-Notched"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e9d",
+    "type": "lithic_artifacts",
+    "name": "deb",
+    "short_description": "Debitage",
+    "long_description": "Debitage"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564e9f",
+    "type": "lithic_artifacts",
+    "name": "Ed",
+    "short_description": "Eden",
+    "long_description": "Eden"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ea0",
+    "type": "lithic_artifacts",
+    "name": "fcr",
+    "short_description": "Fire-Cracked Rock",
+    "long_description": "Fire-Cracked Rock"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ea1",
+    "type": "lithic_artifacts",
+    "name": "fl",
+    "short_description": "Fluted",
+    "long_description": "Fluted"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ea2",
+    "type": "lithic_artifacts",
+    "name": "Fo",
+    "short_description": "Folsom",
+    "long_description": "Folsom"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ea4",
+    "type": "lithic_artifacts",
+    "name": "ground",
+    "short_description": "Ground/Pecked Stone",
+    "long_description": "Ground/Pecked Stone"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ea5",
+    "type": "lithic_artifacts",
+    "name": "HG",
+    "short_description": "Hell Gap",
+    "long_description": "Hell Gap"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ea6",
+    "type": "lithic_artifacts",
+    "name": "Hol",
+    "short_description": "Holcomb",
+    "long_description": "Holcomb"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ea7",
+    "type": "lithic_artifacts",
+    "name": "lc",
+    "short_description": "Lanceolate",
+    "long_description": "Lanceolate"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ea9",
+    "type": "lithic_artifacts",
+    "name": "Mid",
+    "short_description": "Midland",
+    "long_description": "Midland"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564eaa",
+    "type": "lithic_artifacts",
+    "name": "Ms",
+    "short_description": "Meserve",
+    "long_description": "Meserve"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564eab",
+    "type": "lithic_artifacts",
+    "name": "Oxbow",
+    "short_description": "Oxbow",
+    "long_description": "Oxbow"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564eac",
+    "type": "lithic_artifacts",
+    "name": "Par",
+    "short_description": "Parkdale-Eared",
+    "long_description": "Parkdale-Eared"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564eae",
+    "type": "lithic_artifacts",
+    "name": "Pla",
+    "short_description": "Plainview",
+    "long_description": "Plainview"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564eaf",
+    "type": "lithic_artifacts",
+    "name": "pp",
+    "short_description": "Projectile Point",
+    "long_description": "Projectile Point"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564eb0",
+    "type": "lithic_artifacts",
+    "name": "Rd",
+    "short_description": "Raddatz",
+    "long_description": "Raddatz"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564eb1",
+    "type": "lithic_artifacts",
+    "name": "Sb",
+    "short_description": "Scottsbluff",
+    "long_description": "Scottsbluff"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564eb3",
+    "type": "lithic_artifacts",
+    "name": "st",
+    "short_description": "Stemmed",
+    "long_description": "Stemmed"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564eb4",
+    "type": "lithic_artifacts",
+    "name": "Steuben",
+    "short_description": "Steuben",
+    "long_description": "Steuben"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564eb5",
+    "type": "lithic_artifacts",
+    "name": "tool",
+    "short_description": "Other Flaked Stone Tool",
+    "long_description": "Other Flaked Stone Tool"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564eb6",
+    "type": "lithic_artifacts",
+    "name": "tr",
+    "short_description": "Triangular-Unnotched",
+    "long_description": "Triangular-Unnotched"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564eb8",
+    "type": "location_confidence",
+    "name": "2",
+    "short_description": "High",
+    "long_description": "High: the location of the site can be narrowed down to the quarter-quarter section level (if the site area is smaller than this) but no further and/or the site was given a cursory field examination by a professional archaeologist."
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564eb9",
+    "type": "location_confidence",
+    "name": "3",
+    "short_description": "Moderate",
+    "long_description": "Moderate: the site was mapped according to the best guess of several alternatives,  or within a quarter section and/or a reliable informant provided information on the site."
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564eba",
+    "type": "location_confidence",
+    "name": "4",
+    "short_description": "Lower Miss. River",
+    "long_description": "Low: SHPO staff were skeptical of the location given for a site or whether the site exists as described and/or the site was mapped using information provided by a local informant of unknown reliability and has not been field evaluated by a professional archaeologist."
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ebb",
+    "type": "location_confidence",
+    "name": "5",
+    "short_description": "Very Low",
+    "long_description": "Very Low: SHPO staff were highly skeptical of the location of a site or whether the site exists as described and/or the site information was based on rumor or hearsay. Any site receiving a confidence of 5 will not be mapped on the SHPOs master USGS site maps."
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ebd",
+    "type": "national_register",
+    "name": "Yes",
+    "short_description": "Listed",
+    "long_description": "Site is listed on the National Register of Historic Places or is within a listed historic district"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ebe",
+    "type": "other_artifacts",
+    "name": "beads",
+    "short_description": "Beads",
+    "long_description": "Beads"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ebf",
+    "type": "other_artifacts",
+    "name": "born",
+    "short_description": "Bone Ornament",
+    "long_description": "Bone Ornament"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ec0",
+    "type": "other_artifacts",
+    "name": "btool",
+    "short_description": "Bone Tool",
+    "long_description": "Bone Tool"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ec2",
+    "type": "other_artifacts",
+    "name": "cupp",
+    "short_description": "Copper Projectile Point",
+    "long_description": "Copper Projectile Point"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ec3",
+    "type": "other_artifacts",
+    "name": "cutool",
+    "short_description": "Copper Tool",
+    "long_description": "Copper Tool"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ec4",
+    "type": "other_artifacts",
+    "name": "gf",
+    "short_description": "Gunflint",
+    "long_description": "Gunflint"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ec5",
+    "type": "other_artifacts",
+    "name": "glass",
+    "short_description": "Glass",
+    "long_description": "Glass"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ec7",
+    "type": "other_artifacts",
+    "name": "mhist",
+    "short_description": "Miscellaneous Historic",
+    "long_description": "Miscellaneous Historic"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ec8",
+    "type": "other_artifacts",
+    "name": "ochre",
+    "short_description": "Ochre",
+    "long_description": "Ochre"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ec9",
+    "type": "other_artifacts",
+    "name": "pipe",
+    "short_description": "Pipe",
+    "long_description": "Pipe"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564eca",
+    "type": "other_artifacts",
+    "name": "shorn",
+    "short_description": "Shell Ornament",
+    "long_description": "Shell Ornament"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ecc",
+    "type": "owner_types",
+    "name": "Chip",
+    "short_description": "Chippewa National Forest",
+    "long_description": "Chippewa National Forest"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ecd",
+    "type": "owner_types",
+    "name": "Fed",
+    "short_description": "Federal",
+    "long_description": "Federal"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ece",
+    "type": "owner_types",
+    "name": "Loc",
+    "short_description": "Local (Public)",
+    "long_description": "Local (Public)"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ecf",
+    "type": "owner_types",
+    "name": "Priv",
+    "short_description": "Private",
+    "long_description": "Private"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ed1",
+    "type": "owner_types",
+    "name": "Sup",
+    "short_description": "Superior National Forest",
+    "long_description": "Superior National Forest"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ed2",
+    "type": "owner_types",
+    "name": "Tribe",
+    "short_description": "Tribal",
+    "long_description": "Tribal"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ed3",
+    "type": "periods",
+    "name": "C",
+    "short_description": "Contact",
+    "long_description": "Contact ( A.D. 1680 - 1837)"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ef6",
+    "type": "work_types",
+    "name": "4",
+    "short_description": "CRM Plan",
+    "long_description": "Cultural Resource Management Plan (e.g. long-term management plan for resources within a specific project area; site monitoring if part of plan)"
+  },
+  {
+    "_id": "55ca5fcbcf032e6042564ef9",
+    "type": "work_types",
+    "name": "7",
+    "short_description": "Non-archeological studies",
+    "long_description": "Other, Non-Archeological Studies (e.g. oral history, paleoenvironmental, HABS/HAER, geomorphology, TCP)"
+  }
+]
+}
